@@ -1,0 +1,7 @@
+{
+  "name": "ohsutemp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
